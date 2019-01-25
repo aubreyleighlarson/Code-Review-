@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+
+
+.container {
+  color: 008B8B;
+}
+
+.highlight {
+    color: 008B8B;
+}
+
+img {
+  float: right;
+}
+
+.sidebar {
+  width: 60%;
+  float: left;
+  background-color: yellow;
+}
